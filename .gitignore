@@ -1,0 +1,8 @@
+# Flask gitignore
+__pycache__/
+instance/
+webapp.egg-info/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
